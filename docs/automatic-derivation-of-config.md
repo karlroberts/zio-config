@@ -30,7 +30,7 @@ case class MyConfig(x: X)
 // Setting up imports
 
 import zio._
-import zio.config._, 
+import zio.config._
 import zio.config.typesafe._
 import zio.config.magnolia._
 
